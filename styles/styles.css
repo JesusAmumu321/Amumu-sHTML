@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Honk&family=Poetsen+One&display=swap");
+
+* {
+  background-color: #74992e;
+}
+#titulo {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.proyectos {
+  color: black;
+}
+
+.sobreMi {
+  border: 5px solid black;
+  border-radius: 10px;
+  width: 70%;
+}
+
+.fotoMia {
+  border-radius: 100%;
+  margin-left: 5px;
+  width: 20%;
+}
+
+#foto {
+  margin: 5px;
+}
+
+p {
+  color: white;
+}
+ol {
+  list-style-type: lower-greek;
+}
+
