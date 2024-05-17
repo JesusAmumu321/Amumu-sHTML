@@ -1,8 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Honk&family=Poetsen+One&display=swap");
 
 * {
-  background-color: #74992e;
+    background: linear-gradient(0deg, #FCE205, #ffffff8b, #1C75BC);
+    background-attachment: fixed;
 }
+
 #titulo {
   font-family: "Poetsen One", sans-serif;
   font-weight: 400;
@@ -29,9 +31,6 @@
   margin: 5px;
 }
 
-p {
-  color: white;
-}
 ol {
   list-style-type: lower-greek;
 }
