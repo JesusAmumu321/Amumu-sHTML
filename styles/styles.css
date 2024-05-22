@@ -1,8 +1,8 @@
 @import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Honk&family=Poetsen+One&display=swap");
 
 * {
-    background: linear-gradient(0deg, #FCE205, #ffffff8b, #1C75BC);
-    background-attachment: fixed;
+  background: linear-gradient(0deg, #fce205, #ffffff8b, #1c75bc);
+  background-attachment: fixed;
 }
 
 #titulo {
@@ -34,4 +34,3 @@
 ol {
   list-style-type: lower-greek;
 }
-
